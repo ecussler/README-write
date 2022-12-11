@@ -1,0 +1,25 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "Professional README.md file writer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ecussler",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecussler/README-write.git"
+  },
+  "keywords": [
+    "README"
+  ],
+  "bugs": {
+    "url": "https://github.com/ecussler/README-write/issues"
+  },
+  "homepage": "https://github.com/ecussler/README-write#readme"
+}
