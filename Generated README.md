@@ -1,13 +1,7 @@
 # README-write [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]
   
   ## Description
-  This application, run in Node.js, is meant to quicly and easily generate a professional README.md file through a series of terminal prompts. This application uses the following technologies: 
-  - Node.js 
-  - Inquirer 
-  - Arrow functions
-  - Template literals 
-  
-  This application allows users to create consistent and professional README.md files to better illustrate your application's function and usage. This README.md was actually generated using the application itself. 
+  This application, run in Node.js, is meant to quicly and easily generate a professional README.md file through a series of terminal prompts. This application uses the following technologies: Node.js, inquirer, arrow functions, and template literals. This application allows users to create consistent and professional README.md files to better illustrate your application's function and usage.
   
   ## Table of Contents
    - [Installation](#installation)
