@@ -75,7 +75,7 @@ const questions = [
   function init() {
     inquirer.prompt(questions)
     .then((response) =>
-    writeToFile('Generated README.md', generateMarkdown(response))); 
+    writeToFile('Your README.md', generateMarkdown(response))); 
   }
   
   init();

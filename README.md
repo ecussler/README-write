@@ -27,6 +27,8 @@
   ## Usage
   This application is meant to be used in the terminal and does not have a deployed version. 
 
+  ![Application Sample](./assets/README-generator-example.gif)
+
   ## Contribution
   NA
 
